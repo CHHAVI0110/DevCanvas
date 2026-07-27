@@ -176,7 +176,7 @@ npm run preview
 Visit the deployed application:
 
 ```
-\\https://dev-canvas-lake.vercel.app/
+https://dev-canvas-lake.vercel.app/
 ```
 
 ---
