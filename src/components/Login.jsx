@@ -38,26 +38,17 @@ function Login() {
 
     return (
         <div className="
-            min-h-screen
-            flex
-            items-center
-            justify-center
-            bg-gradient-to-br
-            from-blue-50
-            via-white
-            to-indigo-100
-            px-4
-            py-10
+            min-h-screen flex items-center justify-center bg-gradient-to-br from-blue-50 via-white to-indigo-100 px-4 py-10
         ">
 
             <div className="
-                w-full
-                max-w-md
-                bg-white/80
+                w-full 
+                max-w-md 
+                bg-white/80 
                 backdrop-blur-xl
-                rounded-3xl
-                shadow-2xl
-                border
+                rounded-3xl 
+                shadow-2xl 
+                border 
                 border-white/40
                 p-8
             ">

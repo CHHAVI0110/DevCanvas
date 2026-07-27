@@ -46,13 +46,11 @@ function Home() {
                             </div>
 
                             <h2 className="text-3xl font-bold text-slate-800">
-                                No Posts Available
+                                Login First to Explore Posts
                             </h2>
 
                             <p className="mt-4 text-slate-500 leading-7">
-                                Login to explore blogs written by developers or
-                                create your own articles and share your knowledge
-                                with the community.
+                               Please login to view developer blogs, create your own posts, and share your knowledge with the DevCanvas community.
                             </p>
 
                         </div>
