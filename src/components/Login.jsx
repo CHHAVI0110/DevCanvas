@@ -15,6 +15,11 @@ function Login() {
 
 
     const login = async (data) => {
+        console.log("Form data:", {
+        email: data.email,
+        hasPassword: Boolean(data.password)
+    });
+
         setError("")
 
         try {
